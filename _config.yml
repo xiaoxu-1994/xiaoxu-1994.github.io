@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
 title: Xiaoxu's CV
 logo: /assets/img/xiaoxu.png
-description: string: |
+#description: 
+string: |
   Contact Info 
   Tel: 0412325801 
   Email: xiaoxu.li@student.uts.edu.au 
