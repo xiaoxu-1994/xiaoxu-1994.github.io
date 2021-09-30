@@ -2,5 +2,9 @@ theme: jekyll-theme-minimal
 title: Xiaoxu's CV
 logo: /assets/img/xiaoxu.png
 description: Contact Info 
+description: "Tel: 0412325801" 
+description: "Email: xiaoxu.li@student.uts.edu.au" 
+description: Faculty of Engineering and Information Technology 
+description: University of Technology Sydney, Australia
 show_downloads: false
 google_analytics:
