@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+title: Xiaoxu's CV
+logo: /assets/img/xiaoxu.png
+description: Contact Info
+#Tel: 0412325801 Email: xiaoxu.li@student.uts.edu.au
+Faculty of Engineering and Information Technology
+University of Technology Sydney, Australia
+show_downloads: true
+google_analytics:
