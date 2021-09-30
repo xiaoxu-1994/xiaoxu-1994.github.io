@@ -1,6 +1,6 @@
 
-<!--# Briefly Introduction
-Xiaoxu Li received Master degree and Bachelor degree from University of Science and Technology of China, respectively. He is currently pursuing his Ph.D. degree at the University of Technology Sydney, Sydney, Australia. His research interests focus in computer vision, and machine learning.-->
+# Briefly Introduction
+Xiaoxu Li received Master degree and Bachelor degree from University of Science and Technology of China, respectively. He is currently pursuing his Ph.D. degree at the University of Technology Sydney, Sydney, Australia. His research interests focus in computer vision, and machine learning.
 
 # Education
 Unviersity of Technology Sydney, Sydney, Australia <br>2018 - 2021 <br>
